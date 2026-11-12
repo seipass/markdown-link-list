@@ -1,0 +1,8 @@
+[project]
+name = "markdown-link-list"
+version = "0.1.0"
+description = "Extract Markdown links"
+requires-python = ">=3.9"
+license = "MIT"
+
+[tool.unittest]
